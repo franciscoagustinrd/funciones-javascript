@@ -1,4 +1,4 @@
-let globalColor;
+let globalColor = 'white';
 
 function changeColor(color) {
 		const div = document.getElementById('key');
